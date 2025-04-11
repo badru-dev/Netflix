@@ -127,6 +127,10 @@ hr{
     .logo2{
         width: 70px;
     }
+    .card-body{
+        gap: 2em;
+    }
+    
  
 
 }
@@ -148,12 +152,15 @@ hr{
     padding: 40px;
     border: thin solid rgba(70, 65, 40, 0.407)     ;
     
+    
 }
 .card-h2{
     color: #BFB4B5;
     margin-top: 100px;
     width: 80%;
+
 }
+
 /* accordion  */
 
 .acord-sect{
